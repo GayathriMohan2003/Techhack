@@ -5,6 +5,8 @@ Clone the repository to run the Generator.
 
 Created using HTML, CSS.
 
+Easy to use.
+
 ## Team Members
 Leona Theresa Laiju
 
