@@ -3,7 +3,7 @@ Type your own text or url to create your own QR Code
 
 Clone the repository to run the Generator.
 
-Created using HTML, CSS.
+Created using HTML, CSS, Javascript.
 
 Easy to use.
 
